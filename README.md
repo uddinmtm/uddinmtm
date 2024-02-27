@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65dc5278aec67f2e2a9bc47c?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65dc5278aec67f2e2a9bc47c?variant=dark)](https://roadmap.sh)
